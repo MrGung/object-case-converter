@@ -1,5 +1,7 @@
-import camelCase = require('lodash/camelCase')
-import snakeCase = require('lodash/snakeCase')
+import {
+  camelCase,
+  snakeCase,
+} from 'lodash-es';
 
 enum CaseEnum {
   Camel = 'camelCase',

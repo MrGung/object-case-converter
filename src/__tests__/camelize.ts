@@ -3,7 +3,7 @@ import {
   snakeCase,
   kebabCase,
   upperFirst,
-} from 'lodash'
+} from 'lodash-es'
 
 import { camelize, decamelize } from '../camelize'
 
