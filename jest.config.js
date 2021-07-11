@@ -13,4 +13,7 @@ module.exports = {
       tsConfigFile: 'tsconfig-jest.json',
     },
   },
+  moduleNameMapper: {
+      "^lodash-es$": "lodash"
+  }
 };
