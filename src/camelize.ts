@@ -96,6 +96,7 @@ function core<T>(target: any, options: Options): T {
     return obj;
   };
 
+  // @ts-ignore
   return mapObject(target);
 }
 
