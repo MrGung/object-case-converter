@@ -3,14 +3,15 @@
     "rootDir": "src",
     "declaration": true,
     "lib": ["ES2017", "DOM"],
-    "module": "ES2015",
+    "module": "es6",
     "outDir": "dist",
     "declarationDir": "dist",
     "noEmitOnError": true,
     "noImplicitAny": true,
     "noImplicitReturns": true,
     "removeComments": true,
-    "target": "es5"
+    "target": "es5",
+    "moduleResolution": "node"
   },
   "exclude": [
     "node_modules",
