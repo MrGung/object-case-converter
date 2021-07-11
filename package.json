@@ -1,6 +1,6 @@
 {
   "name": "@gungfu/object-case-converter",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Convert keys in an javascript object for some cases(camelCase, snake_case, etc.)",
   "main": "dist/camelize.js",
   "types": "dist/camelize.d.ts",
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ridi/object-case-converter.git"
+    "url": "git+https://github.com/MrGung/object-case-converter.git"
   },
   "keywords": [
     "converter",
     "camelcase",
     "snakecase"
   ],
-  "author": "Kyungmi Koong <kyungmi.k@ridi.com>",
+  "author": "Kyungmi Koong <kyungmi.k@ridi.com>, Steffen Glückselig <npm@gungfu.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ridi/object-case-converter/issues"
+    "url": "https://github.com/MrGung/object-case-converter/issues"
   },
-  "homepage": "https://github.com/ridi/object-case-converter#readme",
+  "homepage": "https://github.com/MrGung/object-case-converter#readme",
   "devDependencies": {
     "@ridi/tslint-config": "0.1.0",
     "@types/jest": "^26.0.24",
