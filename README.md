@@ -11,14 +11,14 @@ Convert keys in an javascript Object to the specific style(camelCase, snake_case
 ## Installation
 
 ```
-$ npm install --save @ridi/object-case-converter
+$ npm install --save @gungfu/object-case-converter
 ```
 
 ## Usage
 
 ### ES6
 ```javascript
-import { camelize, decamelize } from '@ridi/object-case-converter';
+import { camelize, decamelize } from '@gungfu/object-case-converter';
 
 const result1 = camelize(null);
 // result1 = null
@@ -48,14 +48,6 @@ const result3 = decamelize([
 //]
 ```
 
-### ES5
-```javascript
-var converter = require('@ridi/object-case-converter');
-
-converter.camelize(...);
-converter.decamelize(...);
-
-```
 
 ### Methods
 #### camelize(collection, options = {})
