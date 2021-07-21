@@ -6,6 +6,8 @@
 
 Convert keys in an javascript Object to the specific style(camelCase, snake_case, etc.)
 
+**Fork off https://github.com/ridi/object-case-converter using ES- instead of CommonJS-modules.**
+
 ## Installation
 
 ```
