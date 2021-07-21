@@ -1,8 +1,8 @@
 # object-case-converter
 
-[![npm](https://img.shields.io/npm/v/@ridi/object-case-converter.svg)](https://www.npmjs.com/package/@ridi/object-case-converter)
-[![Build Status](https://travis-ci.org/ridi/object-case-converter.svg?branch=master)](https://travis-ci.org/ridi/object-case-converter)
-[![Greenkeeper badge](https://badges.greenkeeper.io/ridi/object-case-converter.svg)](https://greenkeeper.io/)
+[![npm](https://img.shields.io/npm/v/@gungfu/object-case-converter.svg)](https://www.npmjs.com/package/@gungfu/object-case-converter)
+[![Build Status](https://travis-ci.org/gungfu/object-case-converter.svg?branch=master)](https://travis-ci.org/gungfu/object-case-converter)
+[![Greenkeeper badge](https://badges.greenkeeper.io/gungfu/object-case-converter.svg)](https://greenkeeper.io/)
 
 Convert keys in an javascript Object to the specific style(camelCase, snake_case, etc.)
 
